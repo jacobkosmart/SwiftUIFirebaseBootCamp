@@ -21,6 +21,7 @@
 		81A977EF29D24B9900D0DB53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81A977F229D24B9900D0DB53 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		81A977F929D24F6500D0DB53 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		81A977FB29D2527600D0DB53 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				81A977ED29D24B9800D0DB53 /* ContentView.swift */,
 				81A977F929D24F6500D0DB53 /* GoogleService-Info.plist */,
 				81A977EF29D24B9900D0DB53 /* Assets.xcassets */,
+				81A977FB29D2527600D0DB53 /* README.md */,
 				81A977F129D24B9900D0DB53 /* Preview Content */,
 			);
 			path = SwiftUIFirebaseBootCamp;
