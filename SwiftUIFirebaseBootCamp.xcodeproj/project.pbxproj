@@ -38,6 +38,7 @@
 		81A977DF29D24B9800D0DB53 = {
 			isa = PBXGroup;
 			children = (
+				81A977FB29D2527600D0DB53 /* README.md */,
 				81A977EA29D24B9800D0DB53 /* SwiftUIFirebaseBootCamp */,
 				81A977E929D24B9800D0DB53 /* Products */,
 			);
@@ -58,7 +59,6 @@
 				81A977ED29D24B9800D0DB53 /* ContentView.swift */,
 				81A977F929D24F6500D0DB53 /* GoogleService-Info.plist */,
 				81A977EF29D24B9900D0DB53 /* Assets.xcassets */,
-				81A977FB29D2527600D0DB53 /* README.md */,
 				81A977F129D24B9900D0DB53 /* Preview Content */,
 			);
 			path = SwiftUIFirebaseBootCamp;
