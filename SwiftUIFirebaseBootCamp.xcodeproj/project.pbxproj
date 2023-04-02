@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		811EBBA829D96ED600BAF11A /* gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = gitignore; sourceTree = "<group>"; };
 		81A977E829D24B9800D0DB53 /* SwiftUIFirebaseBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIFirebaseBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81A977EB29D24B9800D0DB53 /* SwiftUIFirebaseBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFirebaseBootCampApp.swift; sourceTree = "<group>"; };
 		81A977ED29D24B9800D0DB53 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -39,6 +40,7 @@
 			isa = PBXGroup;
 			children = (
 				81A977FB29D2527600D0DB53 /* README.md */,
+				811EBBA829D96ED600BAF11A /* gitignore */,
 				81A977EA29D24B9800D0DB53 /* SwiftUIFirebaseBootCamp */,
 				81A977E929D24B9800D0DB53 /* Products */,
 			);
